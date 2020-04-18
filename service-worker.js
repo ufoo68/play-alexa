@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/play-alexa/precache-manifest.e9e2df8e3898405b2ec569237e99ee78.js"
+  "/play-alexa/precache-manifest.1cce120f04b02bb6960594e320ea82f9.js"
 );
 
 self.addEventListener('message', (event) => {
